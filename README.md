@@ -1,4 +1,4 @@
-# Persian-reactJS-book
 <p dir="rtl">
+# Persian-reactJS-book
 در این پروژه سعی بر این است که یک مرجع کامل و به روز فارسی در مورد React.js را داشته باشیم . در مورد همکاری در پروژه لطفا فایل README.md را مطالعه کنید
 </p>
