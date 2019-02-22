@@ -72,7 +72,7 @@
 ###  React.js 
 <p dir="rtl" align="right">
  
- - درباره ری اکت
+ - [درباره ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/AboutReactjs.md) 
  - دلیل استفاده از ری اکت
  - نصب ری اکت
  - نوشتن بک مثال ساده برای شروع
