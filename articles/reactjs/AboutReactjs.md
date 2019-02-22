@@ -15,4 +15,4 @@
 - برای ارسال اطلاعات به کامپوننت ها از مفهومی به اسم props  کمک میگیرد که در بخش های بعدی به صورت عملی خواهیم دید
 </div>
 
-![برنامه نویس ui فیس بوک - کریستوفر چدو](https://raw.githubusercontent.com/nimahkh/Persian-react-book/master/articles/reactjs/christopher_chedau.png)
+![برنامه نویس ui فیس بوک - کریستوفر چدو](https://raw.githubusercontent.com/nimahkh/Persian-react-book/master/articles/reactjs/christopher_chedau.png | width=100)
