@@ -58,6 +58,7 @@
 
 > تمامی درخواست ها باید به برنچ writers   ارسال شوند و درخواستهایی که به برنچ master  ارسال شوند ، بازگشت خواهند خورد . برای این کار دستور push  به صورت زیر خواهد بود 
 > git push origin writers 
+
 </p>
 
 
@@ -71,8 +72,8 @@
 ###  React.js 
 <p dir="rtl" align="right">
  
- - درباره ری اکت
- - دلیل استفاده از ری اکت
+ - [درباره ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/AboutReactjs.md) 
+ - [دلیل استفاده از ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/02-Why_To_Using_React.md)
  - نصب ری اکت
  - نوشتن بک مثال ساده برای شروع
  - درباره jsx
