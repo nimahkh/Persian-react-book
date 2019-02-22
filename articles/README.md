@@ -72,8 +72,8 @@
 ###  React.js 
 <p dir="rtl" align="right">
  
- -[x]  [درباره ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/AboutReactjs.md) 
- -[x]  [دلیل استفاده از ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/02-Why_To_Using_React.md)
+ - [درباره ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/AboutReactjs.md) 
+ - [دلیل استفاده از ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/02-Why_To_Using_React.md)
  - نصب ری اکت
  - نوشتن بک مثال ساده برای شروع
  - درباره jsx
