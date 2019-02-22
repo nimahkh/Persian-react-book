@@ -30,7 +30,6 @@
 - وب سایت Paypal
 - وب سایت Reddit
 - وب سایت bitbucket.org
-- وب سایت github.com
 - اپلیکیشن instagram
 - اپلیکیشن facebook
 - اپلیکیشن Walmart بزرگترین فروشگاه زنجیره ای همواره تخفیف در دنیا
