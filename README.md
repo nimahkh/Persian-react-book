@@ -66,7 +66,6 @@
 
 ###  React.js 
 <p dir="rtl" align="right">
--
  
  - درباره ری اکت
  - دلیل استفاده از ری اکت
@@ -92,7 +91,6 @@
 
 ###  React Native
 <p dir="rtl" align="right">
--
  
 - درباره ری اکت نیتیو
 - نصب ری اکت نیتیو
