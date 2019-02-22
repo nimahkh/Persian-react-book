@@ -73,7 +73,7 @@
 <p dir="rtl" align="right">
  
  - [درباره ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/AboutReactjs.md) 
- - دلیل استفاده از ری اکت
+ - [دلیل استفاده از ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/02-Why_To_Using_React.md)
  - نصب ری اکت
  - نوشتن بک مثال ساده برای شروع
  - درباره jsx
