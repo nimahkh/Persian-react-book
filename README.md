@@ -74,7 +74,7 @@
  
  - ✅[درباره ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/AboutReactjs.md) 
  - ✅[دلیل استفاده از ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/02-Why_To_Using_React.md)
- - ✅[نصب ری اکت](https://github.com/nimahkh/Persian-react-book/) 
+ - ✅[نصب ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/03_Install_reactjs.md) 
  - نوشتن بک مثال ساده برای شروع
  - درباره jsx
  - کامپوننت ها پر ری اکت
