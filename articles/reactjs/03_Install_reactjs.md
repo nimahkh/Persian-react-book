@@ -55,7 +55,12 @@ nodejs -v
 
  ```
  sudo npm install -g create-react-app
+ 
+ OR
+ 
+ npm init react-app 01_helloworld 
  ```
+  که 01_helloworld اسم پروژه ای که قصد ساختنش رو داریم هست . 
  
  </div>
  
