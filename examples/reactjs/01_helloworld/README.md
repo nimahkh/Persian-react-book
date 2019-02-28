@@ -13,7 +13,7 @@
 <br/>
 
 ```
-git clone https://github.com/nimahkh/Persian-react-book/master/examples/01_helloworld
+git clone https://github.com/nimahkh/Persian-react-book/tree/master/examples/reactjs/01_helloworld
 cd 01_helloworld
 npm i 
 npm run start
