@@ -11,15 +11,15 @@
 <br/>
 برای تست کردن پروژه تست لطفا کد های زیر را در ترمینال و یا CMD  بنویسید . 
 <br/>
-
+<div dir="ltr" align="left">
+  
 ```
 git clone https://github.com/nimahkh/Persian-react-book/tree/master/examples/reactjs/01_helloworld
 cd 01_helloworld
 npm i 
 npm run start
-
 ``` 
-
+</div>
 حالا آدرس ‌localhost:3000  را چک کنید
 
 </div>
