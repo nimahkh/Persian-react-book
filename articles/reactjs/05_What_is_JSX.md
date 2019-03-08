@@ -22,9 +22,11 @@ const Hello =<h1> Hello world </h1>;
  #####  به عنوان مثال 
 
  <div dir="ltr" align="left">
+ 
  ```
  const hello = <h2 className = "IRC"> Hello World </h2>
  ```
+ 
  </div>
  
  خروجی کد بالا در جاوا اسکریپت کد زیر خواهد بود :
@@ -45,6 +47,7 @@ const Hello =<h1> Hello world </h1>;
 در jsx  میتوانید چندین خط زیر هم بنویسید و یک بلاک ایجاد کنید . اما باید این بلاک میان پرانتز باشد .
 
  <div dir="ltr" align="left">
+ 
 ```
 const headings = (
         <div id = "Outer">
@@ -53,6 +56,7 @@ const headings = (
         </div>
     );
 ```
+
 </div>
 
 هر بلاک باید داخل یک المان html یا یک تگ باز و بسته باشد . به عنوان مثال ، کد زیر اشتباه است . 
@@ -65,6 +69,7 @@ const headings = (
            <h2>second Head</h1> 
        );
  ```
+ 
  </div>
 
 تمام attribute ‌های jsx از قانون camleCase  استفاده میکنند . 
@@ -78,6 +83,7 @@ const headings = (
     This will not work in JSX
     <button onclick = {handleClick}>Click Me</button>
 ```
+
 </div>
 
 در مثال بالا باید onclick  در کد دوم که اشتباه است به onClick  با c  بزرگ و به شکل camleCase  باشد . برای باقی attribute ها هم به همین شکل. به عنوان مثال :‌
@@ -88,6 +94,7 @@ const headings = (
 const classHtml= <div className="Hello">Hello world</div>;
 
 ```
+
 </div>
 
 در مثال بالا className معادل class  هست . 
