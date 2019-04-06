@@ -8,8 +8,8 @@
 
 #### JSX چیست؟
 
-jsx  یک فرمت جاوا اسکریپتی برای ایجاد DOM  های HTML در قالب یک کامپوننت است .
-
+jsx  یک سینتکس جاوا اسکریپتی برای ایجاد DOM  های HTML است .
+استفاده از jsx زمانی معنا پیدا میکند که نیاز باشد logic ها و markup های مرتب با یکدیگر را یکجا درون چیزی که ما آن را کامپوننت می نامیم داشته باشیم.
 ##### یک مثال ساده 
 
  <div dir="ltr" align="left">
@@ -29,7 +29,7 @@ const Hello =<h1> Hello world </h1>;
  <div dir="ltr" align="left">
  
  ```
- const hello = <h2 className = "IRC"> Hello World </h2>
+ const hello = <h2 className="IRC"> Hello World </h2>
  ```
  
  </div>
@@ -39,13 +39,13 @@ const Hello =<h1> Hello world </h1>;
   <div dir="ltr" align="left">
 
  ```
- const hello = React.createElement {
+ const hello = React.createElement(
         type: "h2",
         props: {
             className: "IRC",  
             children: "Hello World" 
            }
-     }
+     )
  ```
  </div>
  
@@ -55,7 +55,7 @@ const Hello =<h1> Hello world </h1>;
  
 ```
 const headings = (
-        <div id = "Outer">
+        <div id="Outer">
            <h1>first Head </h1>
            <h2>second Head</h1> 
         </div>
@@ -76,6 +76,19 @@ const headings = (
  ```
  
  </div>
+اگر نمیخواهید یک تگ اضافه داشته باشید میتوانید از تگ `<React.Fragment>` یا به اختصار `<>` استفاده کنید. این تگ به شما این اجازه را میدهد که لیستی از المنت ها را به صورت گروهی رندر کنید.
+  <div dir="ltr" align="left">
+
+ ```
+ const headings = (
+            <React.Fragment>
+                <h1>first Head </h1>
+                <h2>second Head</h1> 
+            </React.Fragment>
+       );
+ ```
+ 
+ </div>
 
 تمام attribute ‌های jsx از قانون camleCase  استفاده میکنند . 
 
@@ -83,10 +96,10 @@ const headings = (
 
 ```
     This will work in JSX
-    <button onClick = {handleClick}>Click Me</button>
+    <button onClick={handleClick}>Click Me</button>
 
     This will not work in JSX
-    <button onclick = {handleClick}>Click Me</button>
+    <button onclick={handleClick}>Click Me</button>
 ```
 
 </div>
