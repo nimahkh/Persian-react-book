@@ -13,6 +13,8 @@
 
 ## Funtional component
 
+</div> 
+
 ```
 import React from "react";
 
@@ -34,7 +36,11 @@ const Hello = (props)=>{
 
 ```
 
+<div dir="rtl" align="right">
+
 ## Class Components
+
+</div>
 
 
 ```
@@ -65,6 +71,8 @@ class Hello extends Component{
 
 ```
 
+<div dir="rtl" align="right">
+
 در دو مثال بالا از داخل کامپوننت A مقداری را به کامپوننت Hello پاس دادیم . در واقع این کار به کمک پراپسی به اسم what  انجام شد . 
 
 <br/>
@@ -77,6 +85,8 @@ what  هر اسمی میتونه داشته باشه . ما برای مثال ،
 
 <br/>
 #### مثال اول
+
+</div>
 
 ```
 import React, {Component} from "react";
@@ -108,7 +118,11 @@ class Hello extends Component {
 
 ```
 
+<div dir="rtl" align="right">
+
 #### مثال دوم
+
+</div>
 
 ```
 import React, {Component} from "react";
@@ -137,7 +151,11 @@ class Hello extends Component {
 }
 ```
 
+<div dir="rtl" align="right">
+
 #### مثال سوم
+
+</div>
 
 ```
 import React, {Component} from "react";
@@ -171,7 +189,11 @@ class Hello extends Component {
 }
 ```
 
+<div dir="rtl" align="right">
+
 ##### مثال چهارم  
+
+</div>
 
 ```
 import React, {Component} from "react";
@@ -210,10 +232,14 @@ class Hello extends Component {
 
 ```
 
+<div dir="rtl" align="right">
+
 ## render props
 
 یک مفهوم بسیار جذاب در ری اکت وجود دارد به اسم render props که شما به کمک این مفهوم میتوانید به راحتی کامپوننت ها را به شکل یک props بین هم انتقال بدید . 
 <br/>
+
+</div>
 
 ```
 class Cat extends React.Component {
@@ -266,6 +292,8 @@ class MouseTracker extends React.Component {
   }
 }
 ```
+
+<div dir="rtl" align="right">
 
 در مثال بالا MouseTracker کامپوننت Mouse  را فراخوانی کرد . اما به جای آن که داخل Mouse کامپوننت Cat  را قرار دهد ، با کمک پراپسی به اسم render آن را به شکل props صدا زد . 
 
