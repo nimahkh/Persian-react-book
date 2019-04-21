@@ -77,7 +77,7 @@
  - ✅[نصب ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/03_Install_reactjs.md) 
  - ✅[نوشتن یک مثال ساده برای شروع](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/04_Simple_Rectjs_Example.md) 
  - ✅[درباره jsx](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/05_What_is_JSX.md)
- - کامپوننت ها در ری اکت
+ - ✅[کامپوننت ها در ری اکت](https://github.com/nimahkh/Persian-react-book/blob/master/articles/reactjs/06_Components_in_React.md)
  - ارسال پراپس ها
  - مفهوم وضعیت ها و یا استیت ها
  - به روز رسانی استیت ها در کامپوننت ها
